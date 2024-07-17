@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @visaliakella
+- 👀 I’m interested in software development, particularly in Java and Spring Boot applications.
+- 🌱 I’m currently learning advanced Spring features and microservices architecture.
+- 💞️ I’m looking to collaborate on open-source Java projects and Spring Boot applications.
+- 📫 How to reach me:(mailto:visaliakella786@gmail.com) or [LinkedIn](www.linkedin.com/in/akella-visalakshi-859052189)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love hiking and have summited several peaks over 3,000 meters!
